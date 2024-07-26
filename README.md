@@ -23,7 +23,7 @@ I'm a passionate frontend developer dedicated to crafting high-performance, scal
 
 ## 🛠 Projects
 
-- [My Portfolio](https://github.com/jinghaoyong/myportfolio)
+- [My Portfolio](https://github.com/jinghaoyong/myportfolio/tree/main)
 - [Blogposts Website](https://github.com/jinghaoyong/codepulse)
 - [Blogposts Website - backend API](https://github.com/jinghaoyong/codepulse_webapi_backend)
 
