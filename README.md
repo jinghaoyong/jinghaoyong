@@ -30,4 +30,4 @@ I'm a passionate frontend developer dedicated to crafting high-performance, scal
 ## 📫 Contact
 
 Feel free to reach out via email: [jinghao0958@gmail.com](mailto:jinghao0958@gmail.com)
-
+You can also connect with me on LinkedIn. [jinghaoyong](https://www.linkedin.com/in/jinghao-yong-452a4122a/)
