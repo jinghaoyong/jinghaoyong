@@ -19,7 +19,6 @@ With a keen interest in frontend development, I leverage cutting-edge technologi
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinghaoyong)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinghaoyong&layout=compact)
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jinghaoyong&theme=react-dark)
 ![GitHub followers](https://img.shields.io/github/followers/jinghaoyong?style=social)
 
 ## 🛠 Projects
