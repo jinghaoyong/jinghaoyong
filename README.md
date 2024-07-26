@@ -17,9 +17,11 @@ With a keen interest in frontend development, I leverage cutting-edge technologi
 - [Blogposts Website](https://github.com/jinghaoyong/codepulse)
 - [Blogposts Website - backend API](https://github.com/jinghaoyong/codepulse_webapi_backend)
 
+## Contact
 💼 Got a Freelance Gig?
 Hit me up via email: jinghao0958@gmail.com
 
+## Ask Me
 💬 Curious? Just Ask!
 Technologies I Work With:
 JavaScript
