@@ -9,7 +9,7 @@ With a keen interest in frontend development, I leverage cutting-edge technologi
 JavaScript TypeScript Angular Firebase React React-Native HTML5 CSS3 Sass Bootstrap
 
 📈 My GitHub stats
-[![Sky yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-jinghaoyong)](https://github.com/anuraghazra/github-readme-stats)
+[![Sky yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinghaoyong)](https://github.com/anuraghazra/github-readme-stats)
 
 📃 I love documentation
 Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. My go-to documentation tool is Obsidian.md.
