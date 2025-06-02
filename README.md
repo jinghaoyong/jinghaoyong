@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate frontend developer dedicated to crafting high-performance, scalable web applications. With a keen interest in frontend development, I leverage cutting-edge technologies to deliver exceptional digital experiences. My toolkit includes Angular, React, React Native, JavaScript and TypeScript, which I use to build sophisticated and responsive applications that stand out in today’s fast-paced digital landscape. I think it was cool. 😎
+I'm a passionate frontend developer dedicated to crafting high-performance, scalable web applications. With a keen interest in frontend development, I leverage cutting-edge technologies to deliver exceptional digital experiences. My toolkit includes Angular, React, React Native, JavaScript and TypeScript, which I use to build sophisticated and responsive applications that stand out in today’s fast-paced digital landscape.😎
 - **JavaScript**
 - **TypeScript**
 - **Angular**
